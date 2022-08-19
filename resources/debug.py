@@ -15,9 +15,9 @@ if choice == '1':
     r = requests.get('http://zap/JSON/script/action/load/', params={
     'scriptName': scriptName,  'scriptType': scriptType,  'scriptEngine': 'Oracle Nashorn',  'fileName': scriptPath
     }, headers = headers)
-    print r.json()
 elif choice == '2':
     r = requests.get('http://zap/JSON/script/view/scriptVars/', params={
     'scriptName': scriptName
     }, headers = headers)
-    print r.json()
+    
+print(r.json())
