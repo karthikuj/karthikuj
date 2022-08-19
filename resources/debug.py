@@ -8,7 +8,7 @@ headers = {
 }
 
 
-port = input('Enter port number: )
+port = input('Enter port number: ')
 scriptName = input('Enter script name: ')
 if choice == '1':
     scriptType = input('Enter script type: ')
