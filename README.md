@@ -2,7 +2,10 @@
 
 <a href="mailto:karthikuj2001@gmail.com" alt="gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
 <a href="https://www.instagram.com/5up3r541y4n/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&nbsp;
-<a href="https://www.linkedin.com/in/karthikuj" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/karthikuj" alt="LinkedIn"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;
+<a href="https://github.com/karthikuj/" alt="GitHub"><img src="https://img.shields.io/badge/GitHub-5A5A5A?style=for-the-badge&logo=GitHub&logoColor=white"></a>&nbsp;
+<a href="https://twitter.com/5up3r541y4n" alt="Twitter"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>&nbsp;
+<a href="https://tryhackme.com/p/5up3r541y4n" alt="TryHackMe"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label="></a>&nbsp;
 
 ## Hi there 👋
 I'm Karthik, I love to code and h4ck.
