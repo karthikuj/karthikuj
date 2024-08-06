@@ -1,7 +1,6 @@
 ![Welcome image](/images/readmeHeader.png "Hi, I'm Karthik U.J.")
 
 ### Hi there 👋
-I'm Karthik, a pensive mind brimming with ideas, a sporadic hacker, and a dabbling coder.
 - 🔭 I’m currently working on Sasori.
 - 🌱 I’m currently learning software exploitation.
 - 👯 I’m looking to collaborate on Sasori.
